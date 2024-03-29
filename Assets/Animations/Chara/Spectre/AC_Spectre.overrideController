@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AC_Spectre
+  m_Controller: {fileID: 9100000, guid: ca529456df1f1b149bbda6c21c644675, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a55bd8c12d1ef48418d05254bebb8edd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9b47ce6050da46444a1097b23cb73344, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 724a6bc74fd42d84aa565a1d0fdc63d0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5885a97edee0b1340bee786f080c68a0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 986b6c7e4cc019744981332645b34f99, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8dfd5b83525101d4797908065c6896e0, type: 2}

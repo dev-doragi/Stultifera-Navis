@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebbc2368964e5584a8a27d2a14a45ce3, type: 3}
+  m_Name: Item 10
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemId: 10
+  itemName: Skadi's Sword
+  itemDesc: "\uBB34\uAC70\uC6B4 \uB300\uAC80\uC774\uB2E4.\n\uB370\uBBF8\uC9C0 {0}%
+    \uC99D\uAC00"
+  itemIcon: {fileID: -1716907786, guid: c284e7641eea14a4b910c8bbf38eb1d3, type: 3}
+  baseDamage: 9
+  baseCount: 3
+  damages:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  counts: 0000000000000000000000000000000000000000
+  projectile: {fileID: 7394169248969950908, guid: fcf1aa05fd7f67140b2b201ac31bb059, type: 3}
+  hand: {fileID: 1942281081, guid: c284e7641eea14a4b910c8bbf38eb1d3, type: 3}

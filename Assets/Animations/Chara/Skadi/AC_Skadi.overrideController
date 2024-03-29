@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AC_Skadi
+  m_Controller: {fileID: 9100000, guid: ca529456df1f1b149bbda6c21c644675, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a55bd8c12d1ef48418d05254bebb8edd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 42d60b01379d4e44dafcf69d9112d74f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 724a6bc74fd42d84aa565a1d0fdc63d0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 918e9172821496e4db6582f74ce8486e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 986b6c7e4cc019744981332645b34f99, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 598d0a3555bd078489e0d40570ff2660, type: 2}
